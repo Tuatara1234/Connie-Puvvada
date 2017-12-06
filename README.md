@@ -20,6 +20,9 @@ This is my data science capstone project. I always want to utilize data to solve
 2) Bill or Neil?
 I recently attended the Atlanta Women Who Code event utilizing machine learning for sentiment analysis. Our team is very proud of winning the 2nd place! We also presented our project at the Atlanta Startup Village in October, 2017. This project is to showcase a small part of my work analyzing my two favorite modern scientists Bill Nye and Neil deGrasse Tyson's tweets and make predictions. 
 
+3) New Line of Clothing
+Inspired by the simple yet powerful Central Limit Theorum and the fond memories of the garment factories, I want to combine both to answer a business question. 
+
 I will continue to post more projects. 
 
 Please feel free to explore and provide feedback. 
@@ -27,5 +30,5 @@ Please feel free to explore and provide feedback.
 Have a good one!
 
 Connie Puvvada
-November 1, 2017
+December 6, 2017
 
