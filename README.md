@@ -16,11 +16,13 @@ Projects:
 1) Sorghum Corp Yield Predictions
 This is my data science capstone project. I always want to utilize data to solve social problems. World hunger is not an easy problem to solve. But I believe to acquire basic knowledge on crop yield productions is one small step closer in solving the problem. 
 
+2) Data Science Job Market Analysis & Salary Ranges Predictions
+It has been an exciting journey learning data science. It is time to look for my dream job. Approximately five thousands data science/data analyst jobs scraped from Indeed.com using BeautifulSoup. Detail exploratory data analysis was done on the dataset. Different classifiers were applied to make the predictions on the salary ranges based on cities and job titles. 
   
-2) Bill or Neil?
+3) Bill or Neil?
 I recently attended the Atlanta Women Who Code event utilizing machine learning for sentiment analysis. Our team is very proud of winning the 2nd place! We also presented our project at the Atlanta Startup Village in October, 2017. This project is to showcase a small part of my work analyzing my two favorite modern scientists Bill Nye and Neil deGrasse Tyson's tweets and make predictions. 
 
-3) New Line of Clothing
+4) New Line of Clothing
 Inspired by the simple yet powerful Central Limit Theorum and the fond memories of the garment factories, I want to combine both to answer a business question. 
 
 I will continue to post more projects. 
@@ -30,5 +32,5 @@ Please feel free to explore and provide feedback.
 Have a good one!
 
 Connie Puvvada
-December 6, 2017
+Jan 2018
 
