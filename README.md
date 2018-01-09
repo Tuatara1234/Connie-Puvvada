@@ -25,6 +25,9 @@ I recently attended the Atlanta Women Who Code event utilizing machine learning 
 4) New Line of Clothing
 Inspired by the simple yet powerful Central Limit Theorum and the fond memories of the garment factories, I want to combine both to answer a business question. 
 
+5) Customer Segmentation
+A simple project to demonstrate market segmentation using k-mean clustering unsupervised learning technique. 
+
 I will continue to post more projects. 
 
 Please feel free to explore and provide feedback. 
